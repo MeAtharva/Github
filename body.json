@@ -1,0 +1,20 @@
+{
+    "resources": [
+        {
+            "name" : "asdfghj",
+            "serviceName": "asdfghjkl",
+            "description" : "sdfgh",
+            "ownerManagedAccess": "dsf",
+            "scopes": ["dfg", "asdf"],
+            "features": ["asdf", "asdf"]
+},
+        {
+            "name" : "sdfghjk",
+            "serviceName": "trfdcvbhjk",
+            "description" : "dfghjk",
+            "ownerManagedAccess": "true",
+            "scopes": ["asdf", "sdfgh"],
+            "features": ["fdgh", "asdf"]
+}
+    ]   
+}
